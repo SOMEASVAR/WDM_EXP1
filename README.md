@@ -53,6 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+### Employee Data:
+![image](https://github.com/user-attachments/assets/6664f587-02e4-423c-9040-c246cb06a99d)
+
+### Weather Data:
+![image](https://github.com/user-attachments/assets/173f4c16-75eb-4185-a340-cb6b97e09bb1)
 
 
 
@@ -75,6 +80,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### Employee Data:
+![image](https://github.com/user-attachments/assets/4a99b900-8b2b-4477-a2f6-749e746be05a)
+
+
+### Weather Data:
+![image](https://github.com/user-attachments/assets/de2a0a6e-227a-4ade-9a41-74fa8a31afb4)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### Employee Data:
+![image](https://github.com/user-attachments/assets/1db25786-b729-4d88-8f09-a35ec608ba3c)
+
+
+### Weather Data:
+![image](https://github.com/user-attachments/assets/f087e55c-2697-481b-b1e4-69c6f17185bd)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +125,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+### Employee Data:
+![image](https://github.com/user-attachments/assets/575329db-70e4-4729-80dd-46c2903e7901)
+
+
+### Weather Data:
+![image](https://github.com/user-attachments/assets/1c6ae3c5-cc12-4b2a-9c6c-542bc099297f)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
